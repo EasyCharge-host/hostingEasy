@@ -5,7 +5,7 @@ export const DATA = [
     price: 29.99,
     productImg: "/Product.jpeg",
     productPay: "https://buy.stripe.com/00gbM6e9UdrYdpecMM",
-    disabledd: true,
+    disabledd: false,
     // productPay: "https://buy.stripe.com/test_fZe4hE8CydEw8U06oq",
   },
 ];
