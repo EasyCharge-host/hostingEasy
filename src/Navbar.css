@@ -1,19 +1,4 @@
-/* .navbar {
-  color: black;
-  margin-top: 0px;
-  margin-left: 1em;
-  margin-right: 1em;
-  font-size: 30px;
-}
-.navbarh1 {
-  font-size: var(--Überschrift1);
-}
-.navbar_ul {
-  display: flex;
-  /* background-color: white; */
-/* } */
 .navbar_li {
-  /* background-color: var(--backgroundcolorLabel); */
   text-decoration: none;
   list-style: none;
   margin: 1px;
@@ -29,10 +14,9 @@
   border-style: ridge;
   border-left: 0;
   border-right: 0;
-  /* border: 5px; */
   border-color: black;
 }
-*/ .navbar a {
+.navbar a {
   color: inherit;
 }
 
@@ -68,8 +52,6 @@ nav {
   padding: 14px 16px; /* Spacing around each link */
   text-decoration: none; /* Remove underlines from links */
 }
-
-/* Change the link color on hover */
 .navbar li a:hover {
-  background-color: #555; /* Background color on hover */
+  background-color: #555;
 }
