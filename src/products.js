@@ -49,25 +49,3 @@ export const FOUNDERS = [
     job: "Sales and Social Media",
   },
 ];
-{
-  /* <li className="text-center">
-<img src="/Kevin Hart.PNG" alt="PB-M" />
-Schmiedjell Marcel
-</li>
-<li className="text-center">
-<img src="/Kevin Hart.PNG" alt="PB-M" />
-Karner Laurens
-</li>
-<li className="text-center">
-<img src="/Kevin Hart.PNG" alt="PB-M" />
-Schütz Tobias
-</li>
-<li className="text-center">
-<img src="/Kevin Hart.PNG" alt="PB-M" />
-Weninger David
-</li>
-<li className="text-center">
-<img src="/Kevin Hart.PNG" alt="PB-M" />
-Radic Daniel
-</li> */
-}

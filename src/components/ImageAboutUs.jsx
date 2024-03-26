@@ -39,7 +39,7 @@ function ImageAboutUs({ data }) {
       <img
         className="rounded-md w-44 h-60"
         src={data.image}
-        alt={`image/${data.name}`}
+        alt={`/${data.name}`}
       />
       <span className="text-lg">{data.name}</span>
       <span className="text-slate-500 text-base">{data.job}</span>
